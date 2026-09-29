@@ -10,6 +10,12 @@ Cranium Command is the operational control surface for the Cranium governance ec
 
 `cranium-kernel` is the canonical authority source. `cranium-synapse` is the bounded evidence and assessment interface. Cognitive/application surfaces may propose cognition, but authority is only effective through the Kernel authority boundary.
 
+## Live Command surface
+
+**https://worthwyl2022-cloud.github.io/home/**
+
+The static Cranium Command surface is live through GitHub Pages. It is the deployable operator/demo surface; the authority bridge remains fail-closed until an authenticated Kernel service is attached.
+
 ## Current release state
 
 - Cranium Command UI: production build verified locally.
